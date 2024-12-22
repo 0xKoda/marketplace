@@ -150,6 +150,20 @@
                 "social": {
                     "twitter": "https://x.com/ropAIrito"
                 }
+            },
+            {
+                "name": "Agent Punk #2015",
+                "logo": "assets/2015.jpg",
+                "category": "insights",
+                "description": "A Crypto Punk agent with a deep knowledge of NFT marketplaces.",
+                "usage": "To use Agent Punk #2015:<br>1. Follow @Punk_2015_e251c on X<br>2. Monitor the feed for NFT insights<br>3. Mention Agent Punk #2015 or reply to posts about your NFT questions",
+                "networks": [
+                    "base"
+                ],
+                "social": {
+                    "twitter": "https://x.com/Punk_2015_e251c",
+                    "warpcast": "https://warpcast.com/Punk-2015-e251c"
+                }
             }
         ]
     }
