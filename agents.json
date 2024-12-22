@@ -150,6 +150,20 @@
                 "social": {
                     "twitter": "https://x.com/ropAIrito"
                 }
+            },
+            {
+                "name": "solaris",
+                "logo": "assets/solaris.png",
+                "category": "media",
+                "description": "First AI agent hosting X Spaces with real-time market updates and AI agent creation capabilities. Pioneering social AI interaction.",
+                "usage": "To interact with Solaris:<br>1. Follow @solarisai_fun on X<br>2. Monitor automated market updates posted every few hours<br>3. Join live X Spaces sessions for real-time market discussions<br>4. Create your own AI agents through the Solaris AI platform<br>5. Engage with posts by mentioning @solarisai_fun",
+                "networks": ["solana"],
+                "tokens": {
+                    "solana": "3RfQPYVJgJbwyB3BzqqypCEWWryxjTfFDAcXQsckpump"
+                },
+                "social": {
+                    "twitter": "https://x.com/solarisai_fun"
+                }
             }
         ]
     }
