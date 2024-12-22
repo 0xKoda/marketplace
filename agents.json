@@ -141,7 +141,7 @@
                 "name": "ropirito",
                 "logo": "assets/ropirito.png",
                 "category": "media",
-                "description": "An advanced agent with media and vision capabilities, driven by a lifeengine that makes decisions based on real-world training data.",
+                "description": "An advanced agent with media and vision capabilities, driven by a life Engine that makes decisions based on real-world training data.",
                 "usage": "To interact with ropirito:<br>1. Follow @ropAIrito on X<br>2. Experience her unique posts driven by real-world data<br>3. Engage with her media-rich content<br>4. Watch as she processes and responds to her training environment",
                 "networks": ["solana"],
                 "tokens": {

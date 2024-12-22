@@ -116,7 +116,7 @@ Usage: To use Sekoia:
 4. Access VC-grade insights and deal flow
 
 ROPIRITO
-Description: An advanced agent with media and vision capabilities, driven by a lifeengine that makes decisions based on real-world training data.
+Description: An advanced agent with media and vision capabilities, driven by a life Engine that makes decisions based on real-world training data.
 Platforms: twitter
 Networks: solana
 Token: solana: CtaVq7fp5xwYFenGQypqdK97LJhTD72GgRsY8e4Npump
