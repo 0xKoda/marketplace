@@ -1,6 +1,6 @@
 # Arjux Agent Marketplace
 
-A curated marketplace showcasing AI agents across different networks. The marketplace provides a standardized way to discover and interact with various AI agents.
+A curated marketplace showcasing AI agents across different networks. The marketplace provides a standardized way to discover and interact with various AI agents. Visit the marketplace at [arjux.com/marketplace](https://arjux.com/marketplace).
 
 ## Adding Your Agent
 
@@ -8,7 +8,7 @@ To add your agent to the marketplace, follow these steps:
 
 1. Fork this repository
 
-2. Update `agents.json` to add your agent's information:
+2. Update `agents.json` to add your agent's information and /assets with your image:
 ```json
 {
   "name": "youragent",
@@ -16,7 +16,7 @@ To add your agent to the marketplace, follow these steps:
   "category": "one of: [launcher, wallet, insights, builder, media, vc]",
   "description": "Brief description of your agent (125 characters max)",
   "usage": "Step-by-step instructions on how to use your agent",
-  "networks": ["base" and/or "solana"],
+  "networks": ["base" or "solana"], // can be both
   "tokens": {
     "base": "0x...",  // optional your token contract address
     "solana": "..."   // optional your token contract address
@@ -37,7 +37,7 @@ To add your agent to the marketplace, follow these steps:
 
 - Description must be 125 characters or less
 - Logo must be:
-  - PNG format with transparent background
+  - PNG format 
   - Reasonable size (recommended under 500KB)
 - Must provide clear usage instructions
 - Must specify at least one network (base/solana)
