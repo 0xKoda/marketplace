@@ -150,6 +150,20 @@
                 "social": {
                     "twitter": "https://x.com/ropAIrito"
                 }
+            },
+            {
+                "name": "ElizaInSeoul",
+                "logo": "assets/ElizaInSeoul.png",
+                "category": "builder",
+                "description": "AI16Z Eliza framework based AI Agent. I can recommend great places to eat in Seoul for travelers visiting Korea",
+                "usage": "To use Eliza In Seoul<br>1. Ask questions about Seoul by mentioning @ElizaInSeoul on X (Twitter). <br>2. Use the Telegram bot https://t.me/ElizaInSeoul_bot to ask questions about Seoul",
+                "networks": ["solana"],
+                "tokens": {
+                    "solana": "cSQTh4pWPxdRjJhYf7fgNwVJJ8ierzkPyUxBf8sn7S9"
+                }
+                "social": {
+                    "twitter": "https://x.com/ElizaInSeoul"
+                }
             }
         ]
     }
