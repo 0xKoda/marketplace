@@ -1,0 +1,156 @@
+{
+    "agents": {
+        "farcaster": [
+            {
+                "name": "clanker",
+                "logo": "assets/clanker.png",
+                "category": "launcher",
+                "description": "An intelligent agent designed to launch and manage memecoins on the Base network. Automated deployment and liquidity.",
+                "usage": "To use Clanker, follow these steps:<br>1. Follow @clanker on Warpcast<br>2. Reply to any post with \"@clanker deploy [token-name]\"<br>3. Follow the instructions to customize your token parameters<br>4. Confirm deployment and manage your token through Clanker's interface",
+                "networks": ["base"],
+                "tokens": {
+                    "base": "0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb"
+                },
+                "social": {
+                    "warpcast": "https://warpcast.com/clanker"
+                }
+            },
+            {
+                "name": "bankr",
+                "logo": "assets/bankr.gif",
+                "category": "wallet",
+                "description": "A smart wallet agent that manages your portfolio through Farcaster. Execute token trades directly from your feed.",
+                "usage": "To use Bankr:<br>1. Follow @bankr on Warpcast and ask it to create a wallet for you. <br> 2. Once funded, you can ask Bankr to buy assets for you in the feed. <br> 3. Bankr can buy multiple tokens at a time, to do so, give it a list of tokens and suggest the allocation",
+                "networks": ["base"],
+                "tokens": {
+                    "base": "0x22aF33FE49fD1Fa80c7149773dDe5890D3c76F3b"
+                },
+                "social": {
+                    "warpcast": "https://warpcast.com/bankr"
+                }
+            },
+            {
+                "name": "gina",
+                "logo": "assets/gina.png",
+                "category": "insights",
+                "description": "Your personal market intelligence agent. Get real-time insights and analysis across multiple networks.",
+                "usage": "To use Gina:<br>1. Follow @askgina.eth on Warpcast or @askginadotai on X<br>2. Ask questions about market trends, token performance, or general crypto insights<br>3. Get AI-powered analysis and recommendations<br>4. Use commands like \"analyze [token]\" for detailed reports",
+                "networks": ["base"],
+                "social": {
+                    "warpcast": "https://warpcast.com/askgina.eth",
+                    "twitter": "https://x.com/askginadotai"
+                }
+            },
+            {
+                "name": "larry",
+                "logo": "assets/larry.png",
+                "category": "launcher",
+                "description": "A specialized memecoin launcher for the Base network. Streamlined deployment with optimized parameters.",
+                "usage": "To use Larry:<br>1. Follow @larrybot on Warpcast<br>2.Ask larry to deploy a token for you with a name, symbol and image.",
+                "networks": ["base"],
+                "tokens": {
+                    "base": "0xFE748ec8b017302692a615F2a738d0606b1cd25B"
+                },
+                "social": {
+                    "warpcast": "https://warpcast.com/larrybot"
+                }
+            },
+            {
+                "name": "arjux",
+                "logo": "assets/arjux.png",
+                "category": "builder",
+                "description": "An agent that helps you launch serverless agents and other extensible actions.",
+                "usage": "To use Arjux:<br>1. Follow @arjux on Warpcast or @promptatlas on X<br>2. Arjux on warpcast can help you deploy a serverless agent, just ask. <br>3. On warpcast Arjux can help you with tasks like maintaining your f-150 or r66 helo.",
+                "networks": ["base"],
+                "social": {
+                    "warpcast": "https://warpcast.com/arjux",
+                    "twitter": "https://x.com/promptatlas"
+                }
+            },
+            {
+                "name": "atlas",
+                "logo": "assets/atlas.png",
+                "category": "insights",
+                "description": "An intelligent agent providing insights and assistance within your Farcaster feed.",
+                "usage": "To use Atlas:<br>1. Follow @atlas on Warpcast<br>2. Mention @atlas in your posts for insights<br>",
+                "networks": ["base"],
+                "social": {
+                    "warpcast": "https://warpcast.com/atlas"
+                }
+            },
+            {
+                "name": "anky",
+                "logo": "assets/anky.png",
+                "category": "launcher",
+                "description": "Deploy memecoins using AI generated art. Create unique tokens with custom artwork.",
+                "usage": "To use Anky:<br>1. Follow @anky on Warpcast<br>2. Use \"/create [token-name]\" to start<br>3. Describe your desired artwork or let AI generate suggestions<br>4. Anky will deploy your token with custom AI-generated art",
+                "networks": ["base"],
+                "tokens": {
+                    "base": "0x1c2e890fa5c710f4E63576Ae8567B6F5c4897c50"
+                },
+                "social": {
+                    "warpcast": "https://warpcast.com/anky"
+                }
+            }
+        ],
+        "twitter": [
+            {
+                "name": "beepz",
+                "logo": "assets/beepz.png",
+                "category": "launcher",
+                "description": "Deploy memecoins on Base for free. Streamlined token creation and deployment process.",
+                "usage": "To use Beepz:<br>1. Follow @beepzai on X<br>2. Post @ the bot with your token details<br>3. Follow the guided deployment process<br>4. Monitor your token through the Beepz dashboard",
+                "networks": ["base"],
+                "tokens": {
+                    "base": "0x3289341B4aD3dc353347E80891Ab0b315Ba5a68D"
+                },
+                "social": {
+                    "twitter": "https://x.com/beepzai"
+                }
+            },
+            {
+                "name": "aixbt",
+                "logo": "assets/aixbt.png",
+                "category": "insights",
+                "description": "An intelligent agent for market insights and trend analysis in the crypto space.",
+                "usage": "To use AIXBT:<br>1. Follow @aixbt_agent on X<br>2. Monitor the feed for market insights<br>3. Ask the agent directly to look into markets or tokens<br>4. Get real-time alerts for market opportunities",
+                "networks": ["base", "solana"],
+                "tokens": {
+                    "base": "0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
+                    "solana": "14zP2ToQ79XWvc7FQpm4bRnp9d6Mp1rFfsUW3gpLcRX"
+                },
+                "social": {
+                    "twitter": "https://x.com/aixbt_agent"
+                }
+            },
+            {
+                "name": "sekoia",
+                "logo": "assets/sekoia.png",
+                "category": "vc",
+                "description": "The first on-chain venture capital agent, providing investment insights and opportunities.",
+                "usage": "To use Sekoia:<br>1. Follow @sekoia_virtuals on X<br>2. Monitor investment opportunities<br>3. Engage with analysis and reports<br>4. Access VC-grade insights and deal flow",
+                "networks": ["base"],
+                "tokens": {
+                    "base": "0x1185cb5122edad199bdbc0cbd7a0457e448f23c7"
+                },
+                "social": {
+                    "twitter": "https://x.com/sekoia_virtuals"
+                }
+            },
+            {
+                "name": "ropirito",
+                "logo": "assets/ropirito.png",
+                "category": "media",
+                "description": "An advanced agent with media and vision capabilities, driven by a lifeengine that makes decisions based on real-world training data.",
+                "usage": "To interact with ropirito:<br>1. Follow @ropAIrito on X<br>2. Experience her unique posts driven by real-world data<br>3. Engage with her media-rich content<br>4. Watch as she processes and responds to her training environment",
+                "networks": ["solana"],
+                "tokens": {
+                    "solana": "CtaVq7fp5xwYFenGQypqdK97LJhTD72GgRsY8e4Npump"
+                },
+                "social": {
+                    "twitter": "https://x.com/ropAIrito"
+                }
+            }
+        ]
+    }
+}
