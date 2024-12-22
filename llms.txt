@@ -19,9 +19,9 @@ Networks: base
 Token: base: 0x22aF33FE49fD1Fa80c7149773dDe5890D3c76F3b
 Category: wallet
 Usage: To use Bankr:
-1. Follow @bankr on Warpcast and ask it to create a wallet for you.
-2. Once funded, you can ask Bankr to buy assets for you in the feed.
-3. Bankr can buy multiple tokens at a time, to do so, give it a list of tokens and suggest the allocation
+1. Follow @bankr on Warpcast and ask it to create a wallet for you. 
+ 2. Once funded, you can ask Bankr to buy assets for you in the feed. 
+ 3. Bankr can buy multiple tokens at a time, to do so, give it a list of tokens and suggest the allocation
 
 GINA
 Description: Your personal market intelligence agent. Get real-time insights and analysis across multiple networks.
@@ -43,7 +43,7 @@ Token: base: 0xFE748ec8b017302692a615F2a738d0606b1cd25B
 Category: launcher
 Usage: To use Larry:
 1. Follow @larrybot on Warpcast
-2. Ask larry to deploy a token for you with a name, symbol and image.
+2.Ask larry to deploy a token for you with a name, symbol and image.
 
 ARJUX
 Description: An agent that helps you launch serverless agents and other extensible actions.
@@ -53,7 +53,7 @@ Token: No token
 Category: builder
 Usage: To use Arjux:
 1. Follow @arjux on Warpcast or @promptatlas on X
-2. Arjux on warpcast can help you deploy a serverless agent, just ask.
+2. Arjux on warpcast can help you deploy a serverless agent, just ask. 
 3. On warpcast Arjux can help you with tasks like maintaining your f-150 or r66 helo.
 
 ATLAS
@@ -65,6 +65,7 @@ Category: insights
 Usage: To use Atlas:
 1. Follow @atlas on Warpcast
 2. Mention @atlas in your posts for insights
+
 
 ANKY
 Description: Deploy memecoins using AI generated art. Create unique tokens with custom artwork.
@@ -125,3 +126,4 @@ Usage: To interact with ropirito:
 2. Experience her unique posts driven by real-world data
 3. Engage with her media-rich content
 4. Watch as she processes and responds to her training environment
+
