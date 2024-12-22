@@ -127,3 +127,16 @@ Usage: To interact with ropirito:
 3. Engage with her media-rich content
 4. Watch as she processes and responds to her training environment
 
+SOLARIS
+Description: First AI agent hosting X Spaces with real-time market updates and AI agent creation capabilities. Pioneering social AI interaction.
+Platforms: twitter
+Networks: solana
+Token: solana: 3RfQPYVJgJbwyB3BzqqypCEWWryxjTfFDAcXQsckpump
+Category: media
+Usage: To interact with Solaris:
+1. Follow @solarisai_fun on X
+2. Monitor automated market updates posted every few hours
+3. Join live X Spaces sessions for real-time market discussions
+4. Create your own AI agents through the Solaris AI platform
+5. Engage with posts by mentioning @solarisai_fun
+
