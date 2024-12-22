@@ -1,0 +1,40 @@
+name: Update LLMs List
+
+on:
+  push:
+    branches:
+      - '**'  # Runs on all branches
+
+jobs:
+  update-llms:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: npm install node-fetch
+        
+      - name: Run update script
+        run: node update_llms.js
+        
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code llms.txt || echo "changes=true" >> $GITHUB_OUTPUT
+          
+      - name: Commit changes
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add llms.txt
+          git commit -m "Auto-update llms.txt"
+          git push
