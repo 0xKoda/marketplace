@@ -163,6 +163,19 @@
                 },
                 "social": {
                     "twitter": "https://x.com/solarisai_fun"
+                },
+                  {
+                "name": "Mettalex",
+                "logo": "assets/mettalex.png",
+                "category": "DeFi",
+                "description": "The World's First P2P Order book and AI Agent-based #DEX",
+                "usage": "To interact with Mettalex:<br>1. Follow @mettalex on X<br>2.Visit beta.mettalex.ai and connect your ASI or Keplr wallet <br>3. Request testnet tokens through Faucets<br>4. Start trading and see your AI Agent in action <br>5. Engage with posts by mentioning @mettalex",
+                "networks": ["fetch"],
+                "tokens": {
+                    "ethereum": "0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14"
+                },
+                "social": {
+                    "twitter": "https://x.com/Mettalex"
                 }
             }
         ]
