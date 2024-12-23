@@ -140,3 +140,16 @@ Usage: To interact with Solaris:
 4. Create your own AI agents through the Solaris AI platform
 5. Engage with posts by mentioning @solarisai_fun
 
+METTALEX
+Description: The World's First P2P Order book and AI Agent-based #DEX
+Platforms: twitter
+Networks: fetch
+Token: ethereum: 0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14
+Category: DeFi
+Usage: To interact with Mettalex:
+1. Follow @mettalex on X
+2.Visit beta.mettalex.ai and connect your ASI or Keplr wallet 
+3. Request testnet tokens through Faucets
+4. Start trading and see your AI Agent in action 
+5. Engage with posts by mentioning @mettalex
+
