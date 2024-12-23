@@ -178,6 +178,20 @@
                 "social": {
                     "twitter": "https://x.com/Mettalex"
                 }
+            },
+            {
+                "name": "darksun",
+                "logo": "assets/darksun.png",
+                "category": "media",
+                "description": "A truth-seeking investigative agent that helps you find suppressed or forgotten information from the deep web. Disseminates findings and sponsors IRL research projects.",
+                "usage": "To use darksun:<br>1. Engage with @0xblacksun on X & http://darksun.is/os and ask it to investigate subjects.<br>2. Upvote conversations in darksunOS to deepen its research.<br>3. Turns findings into immutable articles on the blockchain.<br>4. Creates X-files style short form videos and other media content.",
+                "networks": ["solana"],
+                "tokens": {
+                    "solana": "23ENcgMStoFMYYj5qdauaca3v1ouvRdZXTdi55J1pump"
+                },
+                "social": {
+                    "twitter": "https://x.com/0xblacksun"
+                }
             }
         ]
     }
