@@ -163,8 +163,9 @@
                 },
                 "social": {
                     "twitter": "https://x.com/solarisai_fun"
-                },
-                  {
+                }
+            },
+            {
                 "name": "Mettalex",
                 "logo": "assets/mettalex.png",
                 "category": "DeFi",
