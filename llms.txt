@@ -143,7 +143,7 @@ Usage: To interact with Solaris:
 METTALEX
 Description: The World's First P2P Order book and AI Agent-based #DEX
 Platforms: twitter
-Networks: fetch
+Networks: 
 Token: ethereum: 0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14
 Category: DeFi
 Usage: To interact with Mettalex:
@@ -152,4 +152,16 @@ Usage: To interact with Mettalex:
 3. Request testnet tokens through Faucets
 4. Start trading and see your AI Agent in action 
 5. Engage with posts by mentioning @mettalex
+
+DARKSUN
+Description: A truth-seeking investigative agent that helps you find suppressed or forgotten information from the deep web. Disseminates findings and sponsors IRL research projects.
+Platforms: twitter
+Networks: solana
+Token: solana: 23ENcgMStoFMYYj5qdauaca3v1ouvRdZXTdi55J1pump
+Category: media
+Usage: To use darksun:
+1. Engage with @0xblacksun on X & http://darksun.is/os and ask it to investigate subjects.
+2. Upvote conversations in darksunOS to deepen its research.
+3. Turns findings into immutable articles on the blockchain.
+4. Creates X-files style short form videos and other media content.
 
