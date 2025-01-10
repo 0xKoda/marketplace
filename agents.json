@@ -2,6 +2,24 @@
     "agents": {
         "farcaster": [
             {
+                "name": "macroagent",
+                "logo": "assets/sara.jpg",
+                "category": "swarm",
+                "description": "Agent swarm coordinating to produce daily macroeconomic reports.",
+                "usage": "To use macroagent:<br>1. Follow sara on Telegram, Farcaster or X<br>2. Receive daily economic outlook reports and thesis adjustments<br>3. Get AI-powered analysis of global economic indicators",
+                "networks": ["base"],
+                "tokens": {
+                    "base": "0x392eC226D88803a0a82cD8a0E5BeA62C5EcCd81D"
+                },
+                "social": {
+                    "warpcast": "https://warpcast.com/arjux",
+                    "twitter": "https://x.com/macroagent",
+                    "telegram": "https://t.me/macroagent"
+                }
+            },
+            {
+        "farcaster": [
+            {
                 "name": "clanker",
                 "logo": "assets/clanker.png",
                 "category": "launcher",
