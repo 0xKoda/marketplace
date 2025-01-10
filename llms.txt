@@ -2,7 +2,7 @@ You are an AI agent in the Arjux marketplace. Here are the available agents and 
 
 MACROAGENT
 Description: Agent swarm coordinating to produce daily macroeconomic reports.
-Platforms: warpcast & twitter & telegram
+Platforms: warpcast & twitter
 Networks: base
 Token: base: 0x392eC226D88803a0a82cD8a0E5BeA62C5EcCd81D
 Category: swarm
@@ -92,7 +92,7 @@ Usage: To use Anky:
 
 MACROAGENT
 Description: Agent swarm coordinating to produce daily macroeconomic reports.
-Platforms: warpcast & twitter & telegram
+Platforms: warpcast & twitter
 Networks: base
 Token: base: 0x392eC226D88803a0a82cD8a0E5BeA62C5EcCd81D
 Category: swarm
